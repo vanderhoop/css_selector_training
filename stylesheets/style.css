@@ -1,0 +1,65 @@
+
+html, body {
+  background-color: #facade;
+  height: 100%;
+  text-align: center;
+}
+
+div {
+  border: 1px solid black;
+  margin: 25px;
+  width: 150px;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+  text-align: left;
+}
+
+li {
+  display: inline-block;
+}
+
+div.container {
+  margin: 2em auto;
+  width: 600px;
+  background-color: white;
+}
+
+.container div {
+  display: inline-block;
+}
+
+.red {
+  background-color: rgb(202, 23, 23);
+}
+
+.blue {
+  background-color: rgb(153, 210, 255);
+}
+
+.yellow {
+  background-color: rgb(235, 235, 87);
+}
+
+h2 {
+  color: rgb(202, 23, 23);
+}
+
+/*==================================*/
+/* Write Your Styles below!!! */
+/*==================================*/
+
+h1 {
+  text-transform: uppercase;
+}
+
+.green {
+  background-color: rgb(148, 179, 148);
+  border: 2px dashed #facade;
+}
+
+
+
+
