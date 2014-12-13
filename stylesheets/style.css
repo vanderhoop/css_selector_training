@@ -1,7 +1,6 @@
 
 html, body {
   background-color: #facade;
-  height: 100%;
   text-align: center;
 }
 
@@ -11,14 +10,9 @@ div {
   width: 150px;
 }
 
-ul {
-  list-style: none;
-  display: inline-block;
-  text-align: left;
-}
-
 li {
   display: inline-block;
+  width: 30%;
 }
 
 div.container {
@@ -47,6 +41,43 @@ h2 {
   color: rgb(202, 23, 23);
 }
 
+.target {
+  position: relative;
+  height: 8em;
+}
+
+.centered {
+  margin: 0 auto;
+  width: 33%;
+  height: 100%;
+}
+
+.wrapper {
+  background-color: #facade;
+  position: relative;
+}
+
+.target div.centered.wrapper {
+  height: 8em;
+  width: 8em;
+  border-top: none;
+  border-bottom: none;
+  background-color: #facade;
+}
+
+.ring {
+  margin: 0 auto;
+  width: 40%;
+  height: 50%;
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+.outermost {
+  height: 100%;
+  width: 100%;
+}
+
 /*==================================*/
 /* Write Your Styles below!!! */
 /*==================================*/
@@ -55,9 +86,21 @@ h1 {
   text-transform: uppercase;
 }
 
+a {
+  text-decoration: none;
+}
+
+p {
+  font-weight: bold;
+}
+
 .green {
   background-color: rgb(148, 179, 148);
   border: 2px dashed #facade;
+}
+
+.yellow p:nth-child(2) {
+  opacity: 0.0;
 }
 
 
