@@ -17,6 +17,10 @@ div {
   width: 150px;
 }
 
+ul {
+  padding-left: 0px;
+}
+
 li {
   display: inline-block;
   width: 30%;
