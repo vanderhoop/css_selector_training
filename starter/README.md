@@ -1,15 +1,16 @@
-## Get Selective; An Introductory CSS Selector Exercise
+# Get Selective; An Introductory CSS Selector Exercise
 
-Nobody presents CSS concepts better than the maintainer of [CSS Tricks](http://css-tricks.com/), Chris Coyier. You've been tasked with reading [his excellent, easy-to-understand introduction to CSS Selectors](http://css-tricks.com/how-css-selectors-work/), and putting the knowledge found therein to immediate use.
+The purpose of this exercise is to get novice web developers simple, meaningful repetitions using CSS selectors.
 
-#### Directions
+### Directions
 
-__Pre-requisite:__ read [Chris Coyier's introduction to CSS Selectors](http://css-tricks.com/how-css-selectors-work/)
+__Pre-requisite:__ read [Chris Coyier's excellent, easy-to-understand introduction to CSS Selectors](http://css-tricks.com/how-css-selectors-work/)
 
 __IMPORTANT:__ 
   - This is strictly a CSS exercise, so *don't change the html*. 
-  - Additionally, there are pre-written styles for this exercise. Don't alter them, as this exercise was designed for you to work around what was already written. Do your work solely in the [`stylesheets/style.css`](stylesheets/style.css) file. 
+  - Additionally, there are pre-written styles for this exercise. Don't alter them, as this exercise was designed for you to work *around* what was already written. Do your work solely in the [`stylesheets/style.css`](stylesheets/style.css) file. 
 
+1. Read [Chris Coyiers introduction to CSS Selectors](http://css-tricks.com/how-css-selectors-work/).
 1. Select any and all `h1` tags that might be on the page
   - set the h1's `text-tranform` property to `uppercase`
 1. Select any and all anchor (`<a>`) tags on the page
@@ -39,5 +40,4 @@ __IMPORTANT:__
 #### A Picture of Completion
 
 ![image](complete.png)
-
 
