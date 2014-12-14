@@ -1,4 +1,4 @@
-## Target Practice; An Introductory CSS Selector Exercise
+## Get Selective; An Introductory CSS Selector Exercise
 
 Nobody presents CSS concepts better than the maintainer of [CSS Tricks](http://css-tricks.com/), Chris Coyier. You've been tasked with reading [his excellent, easy-to-understand introduction to CSS Selectors](http://css-tricks.com/how-css-selectors-work/), and putting the knowledge found therein to immediate use.
 
