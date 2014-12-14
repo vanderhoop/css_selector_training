@@ -1,8 +1,8 @@
-## Get Selective; An Introductory CSS Selector Exercise
+# Get Selective; An Introductory CSS Selector Exercise
 
 The purpose of this exercise is to get novice web developers simple, meaningful repetitions using CSS selectors.
 
-#### Directions
+### Directions
 
 __Pre-requisite:__ read [Chris Coyier's excellent, easy-to-understand introduction to CSS Selectors](http://css-tricks.com/how-css-selectors-work/)
 
